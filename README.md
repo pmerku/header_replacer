@@ -1,7 +1,7 @@
 ### Header_replacer
 
-A small script that replaces a header of your choice (change `old_header) \
-in `.c` and `.h` files with a new one of your choice (change `new_header). 
+A small script that replaces a header of your choice (change `old_header`) \
+in `.c` and `.h` files with a new one of your choice (change `new_header`). 
 
 #### How to use
 
